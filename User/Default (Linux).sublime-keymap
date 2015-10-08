@@ -1,0 +1,22 @@
+[
+  { "keys": ["d", "f"], "command": "exit_insert_mode",
+    "context":
+    [
+      { "key": "setting.command_mode", "operand": false },
+      { "key": "setting.is_widget", "operand": false }
+    ]
+  },
+  { "keys": ["super+shift+l"],
+    "command": "insert_snippet",
+    "args": {
+      "contents": "console.log(${1:}$SELECTION);${0}"
+    }
+  },
+  { "keys": ["super+shift+f"],
+    "command": "insert_snippet",
+    "args": {
+      "contents": "function (arg1, arg2) { ${1:}\n$SELECTION\n}${0}"
+    }
+  }
+]
+

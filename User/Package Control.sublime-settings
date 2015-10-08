@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Darkula Color Scheme",
+		"DocBlockr",
+		"EasyMotion",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HttpStatusCode",
+		"Idiomatic-CSS-Comments-Snippets",
+		"Jasmine JS",
+		"JavaScriptNext - ES6 Syntax",
+		"JSONLint",
+		"LESS",
+		"LiveStyle",
+		"Material Theme",
+		"Package Control",
+		"Require CommonJS Modules Helper",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
+	]
+}
